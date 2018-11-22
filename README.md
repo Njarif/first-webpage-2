@@ -1,5 +1,5 @@
-#My-first-website
-#### It's a trial version to learn how to build websites with the skills I've gathered since Tuesday., November 22nd 2018
+my-first-website
+#### It's a trial version to learn how to build websites with the skills I've gathered since Tuesday, November 22nd 2018
 
 #### **By Francis Mwangi**
 
